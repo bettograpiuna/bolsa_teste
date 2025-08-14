@@ -3,3 +3,4 @@ pandas
 quantstats
 plotly
 matplotlib
+IPython
